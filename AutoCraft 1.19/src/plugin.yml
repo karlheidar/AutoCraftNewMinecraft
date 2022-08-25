@@ -2,7 +2,7 @@ name: AutoCraft
 version: BETA-5
 authors: [keksexception]
 main: de.raffi.autocraft.main.AutoCraft
-api-version: 1.14
+api-version: 1.19
 
 commands:
    autocraft:
